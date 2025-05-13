@@ -81,5 +81,6 @@ Mesmo sem fins lucrativos, o projeto tem potencial social e ambiental, promovend
 📎 Este é um projeto acadêmico introdutório, sem implementação técnica ou desenvolvimento de software. O foco foi a elaboração de uma proposta conceitual com base nos conhecimentos iniciais adquiridos no curso.
 
 ## 📘 Referências
-ABRELPE – Panorama dos Resíduos Sólidos no Brasil (2022)
-IBGE - Indicadores de Sustentabilidade Urbana
+
+- ABRELPE – Panorama dos Resíduos Sólidos no Brasil (2022)
+- IBGE - Indicadores de Sustentabilidade Urbana
