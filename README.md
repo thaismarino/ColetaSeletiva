@@ -16,6 +16,10 @@ Mesmo sem fins lucrativos, o projeto tem potencial social e ambiental, promovend
 - Gabriel Martins
 - Nathalia Souza Lima
 
+## 👨‍🏫 Orientadora
+
+- Débora Richter 
+
 
 ## 🎯 Objetivos
 
