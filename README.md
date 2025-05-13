@@ -9,12 +9,12 @@ Aplicativo proposto para facilitar a localização de pontos de coleta seletiva,
 Mesmo sem fins lucrativos, o projeto tem potencial social e ambiental, promovendo a conscientização ecológica e integrando a comunidade a práticas sustentáveis desde o uso doméstico até ações de políticas públicas.
 
 ## 👥 Integrantes
-
-- Thais Oliveira dos Santos 
+ 
 - Andre Felipe Mendes da Silva
 - Carolina Tompsen Bandel
 - Gabriel Martins
 - Nathalia Souza Lima
+- Thais Oliveira dos Santos 
 
 ## 👨‍🏫 Orientadora
 
